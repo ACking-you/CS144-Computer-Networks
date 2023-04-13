@@ -1,6 +1,8 @@
 # CS144 : Computer Networks
+This repository was cloned from [CS144-Computer-Network](https://github.com/PKUFlyingPig/CS144-Computer-Network) .
 
-This repository contains all the learning materials for Stanford CS144 course : Computer Networks, you can go to the [initial website](https://cs144.github.io) to get more guidance.
+This repository contains all the learning materials for Stanford CS144 course : Computer Networks, you can go to
+the [initial website](https://cs144.github.io) to get more guidance.
 
 ## Resources
 
